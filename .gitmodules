@@ -1,0 +1,3 @@
+[submodule "fathered_marketing/themes/andromeda-light"]
+	path = fathered_marketing/themes/andromeda-light
+	url = https://github.com/gethugothemes/andromeda-light.git
